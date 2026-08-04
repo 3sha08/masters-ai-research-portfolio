@@ -1,0 +1,7 @@
+Heart Disease UCI Dataset
+
+Source:
+https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data?resource=download
+
+License:
+Available through the UCI Machine Learning Repository.
