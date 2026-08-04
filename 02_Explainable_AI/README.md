@@ -159,6 +159,7 @@ The explainability techniques are compared using:
 
 # Repository Structure
 
+```text
 02_Explainable_AI/
 │
 ├── README.md
@@ -182,6 +183,7 @@ The explainability techniques are compared using:
 └── data/
     └── Heart_Disease.csv
 
+```
 ---
 
 # Results
