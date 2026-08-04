@@ -159,7 +159,6 @@ The explainability techniques are compared using:
 
 # Repository Structure
 
-```text
 02_Explainable_AI/
 │
 ├── README.md
