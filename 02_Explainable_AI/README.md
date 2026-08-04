@@ -163,26 +163,26 @@ The explainability techniques are compared using:
 02_Explainable_AI/
 │
 ├── README.md
-├── Explainable_AI.ipynb
-├── Heart_Disease.csv
 ├── requirements.txt
+├── Explainable_AI_for_Machine_Learning_Models.ipynb
+├── Heart Disease UCI.xlsx.csv
+│
+├── Explainable_AI_for_Heart_Disease_Prediction_Research_Paper.docx
+├── Explainable_AI_for_Heart_Disease_Prediction_Research_Paper.pdf
+│
+├── Project 2 - List of Figures.pdf
 │
 ├── figures/
-│   ├── Dataset_Workflow.png
-│   ├── Correlation_Heatmap.png
-│   ├── SHAP_Summary_Plot.png
-│   ├── SHAP_Bar_Plot.png
-│   ├── LIME_Explanation.png
-│   ├── Confusion_Matrix.png
-│   └── Feature_Importance.png
+│   ├── Figure1_Framework.png
+│   ├── Figure2_Dataset_Statistics.png
+│   ├── Figure3_Feature_Importance.png
+│   ├── Figure4_SHAP_Summary.png
+│   ├── Figure5_SHAP_Bar.png
+│   ├── Figure6_LIME.png
+│   ├── Figure7_Model_Performance.png
+│   └── Figure8_Confusion_Matrix.png
 │
-├── reports/
-│   ├── Explainable_AI_Research_Paper.pdf
-│   └── Explainable_AI_Research_Paper.docx
-│
-└── data/
-    └── Heart_Disease.csv
-
+└── dataset_source.txt
 ```
 ---
 
