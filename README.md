@@ -153,7 +153,7 @@ The projects in this repository follow a structured research workflow:
 
 **Trisha Dasari**
 
-Email: [td8m28@gmail.com](mailto:td8m28@gmail.com)
+Email: 3shadas@gmail.com 
 
 ---
 
