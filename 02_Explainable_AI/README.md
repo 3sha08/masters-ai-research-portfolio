@@ -236,7 +236,7 @@ Master of Arts in Information Technology Management
 
 Webster University
 
-Email: td8m28@gmail.com
+Email: 3shadas@gmail.com
 
 ---
 
