@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project presents a comparative evaluation of three leading Large Language Models (LLMs)—**ChatGPT (GPT-5.5)**, **Google Gemini 3.6 Flash**, and **Claude Sonnet**—for enterprise business decision support. Using the Tableau Sample Superstore dataset, the study investigates how different LLMs interpret identical business information and generate executive-level recommendations.
+This project presents a comparative evaluation of three leading Large Language Models (LLMs) **ChatGPT (GPT-5.5)**, **Google Gemini 3.6 Flash**, and **Claude Sonnet** for enterprise business decision support. Using the Tableau Sample Superstore dataset, the study investigates how different LLMs interpret identical business information and generate executive-level recommendations.
 
 A standardized business summary generated through Python-based exploratory data analysis (EDA) was provided to each model using the same prompt. The resulting responses were evaluated using qualitative and quantitative criteria, including business understanding, numerical accuracy, evidence-based reasoning, hallucination resistance, executive readability, and recommendation quality.
 
